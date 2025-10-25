@@ -15,7 +15,7 @@ It allows you to set angles, save positions, load them, and manage all data thro
 ![Web Page](index.png)
 
 ### 🔹 Angles.php
-![Angles](angles.png)
+![Angles](angels.png)
 
 ### 🔹 Database Structure
 ![Database](databas.png)
